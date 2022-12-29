@@ -8,7 +8,7 @@
     "start": "NODE_ENV=production node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Oron-2 PetarPandzharov@protonmail.ch",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.1",
